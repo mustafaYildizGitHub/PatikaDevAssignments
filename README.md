@@ -1,0 +1,2 @@
+# PatikaDevAssignments
+patika.dev projects
